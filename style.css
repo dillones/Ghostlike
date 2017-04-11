@@ -1,7 +1,8 @@
 body {
-background-color: #000;
+background-color: #5F574F;
+image-rendering: pixelated;
 }
 
 canvas display {
-  background-color: #666;
+  image-rendering: pixelated;
 }
